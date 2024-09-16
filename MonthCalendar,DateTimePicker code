@@ -48,7 +48,7 @@ namespace _240910_1_WinForm예제_
                 textBox3.Text = st + "~" + en;
             }
         }
-				//DatetimePicker에서 선택한 날짜 표시
+	//DateTimePicker에서 선택한 날짜 표시
         private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
         {
             var ne = dateTimePicker1.Value.ToString("yyyy-MM-dd");
