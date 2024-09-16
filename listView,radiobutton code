@@ -55,7 +55,7 @@ namespace _240910_1_WinForm예제_
             listView1.EndUpdate();
         }
 
-       
+        //start버튼을 누를 시 End버튼이 활성화됨
         private void button1_Click(object sender, EventArgs e)
         {
             button2.Enabled = true;
