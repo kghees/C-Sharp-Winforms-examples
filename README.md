@@ -40,4 +40,7 @@
    - 원본 이미지를 확대/축소해서 컨트롤에 보여줌. 원본 이미지의 가로/세로 비율이 그대로 유지된다.
 ![label1](https://github.com/user-attachments/assets/8a172962-abb9-41bd-9014-e58dfc5ea995)
 
+## radiobutton  
+- 다른 RadioButton 컨트롤과 함께 사용할 경우 사용자가 선택 그룹에서 단일 옵션을 선택할 수 있습니다.
+![label1](https://github.com/user-attachments/assets/885d20d1-bc92-4d54-bfe1-4165b66a6c71)
 
