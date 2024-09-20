@@ -15,7 +15,7 @@
 ![label1](https://github.com/user-attachments/assets/5ef7c5f8-99e5-4c23-9022-e23889703c96)
 
 ## NumericUpDown  
-- c#에서 실수를 저장할 수 있는 변수로 **${\textsf{\color{red}double}}$** **${\textsf{\color{red}decimal}}$**이 자주 사용됨
+- c#에서 실수를 저장할 수 있는 변수로 **${\textsf{\color{red}double}}$** **${\textsf{\color{red}decimal}}$** 이 자주 사용됨
 - double
   - 부동소수점 방식
   - 64비트(8바이트)크기에, 약 15~16자리의 유효숫자를 가짐
