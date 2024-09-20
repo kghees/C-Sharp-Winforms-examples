@@ -27,3 +27,16 @@
   - M을 뒤에 붙이는 것은 decimal 타입이라는 것을 명시하기 위함임
 ![label1](https://github.com/user-attachments/assets/7423b348-65d1-4b7d-bd22-500c83d88fbb)
 
+## PictureBox  
+- Normal
+   - 원본 이미지를 컨트롤 크기 만큼만 보여줌
+- CenterImage
+   - 컨트롤 크기와 이미지 크기가 다를 경우, 원본 이미지의 중앙 부분을 기준으로 컨트롤 크기만큼만 보여줌
+- AutoSize
+   - 컨트롤 크기가 원본 이미지 크기로 자동으로 변경됨. 원본 이미지 전체를 그대로 보여준다.
+- StretchImage
+   - 원본 이미지의 가로/세로를 확대 또는 축소해서 컨트롤에 꽉 채워서 출력함
+- Zoom
+   - 원본 이미지를 확대/축소해서 컨트롤에 보여줌. 원본 이미지의 가로/세로 비율이 그대로 유지된다.
+![label1](https://github.com/user-attachments/assets/7ec40338-9a63-4875-b331-82334708a6e7)
+
