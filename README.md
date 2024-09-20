@@ -38,5 +38,6 @@
    - 원본 이미지의 가로/세로를 확대 또는 축소해서 컨트롤에 꽉 채워서 출력함
 - Zoom
    - 원본 이미지를 확대/축소해서 컨트롤에 보여줌. 원본 이미지의 가로/세로 비율이 그대로 유지된다.
-![label1](https://github.com/user-attachments/assets/7ec40338-9a63-4875-b331-82334708a6e7)
+![label1](https://github.com/user-attachments/assets/8a172962-abb9-41bd-9014-e58dfc5ea995)
+
 
