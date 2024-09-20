@@ -14,3 +14,16 @@
 - 하루이상의 날짜가 필요할 땐 MonthCalendar를 하루만 필요할 땐 DateTimePicker를 쓰면된다.
 ![label1](https://github.com/user-attachments/assets/5ef7c5f8-99e5-4c23-9022-e23889703c96)
 
+## NumericUpDown  
+- c#에서 실수를 저장할 수 있는 변수로 **${\textsf{\color{red}double}}$** **${\textsf{\color{red}decimal}}$**이 자주 사용됨
+- double
+  - 부동소수점 방식
+  - 64비트(8바이트)크기에, 약 15~16자리의 유효숫자를 가짐
+  - decimal에 비해 연산이 빠르기에 대두분의 경우 사용됨
+- decimal
+  - 고정소수점 방식
+  - 128비트(16바이트)크기에 28~29자리의 유효숫자를 가짐
+  - 정밀한 계산이 필요한 금융, 세금, 과학 등의 분야에서 사용
+  - M을 뒤에 붙이는 것은 decimal 타입이라는 것을 명시하기 위함임
+![label1](https://github.com/user-attachments/assets/7423b348-65d1-4b7d-bd22-500c83d88fbb)
+
