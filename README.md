@@ -55,3 +55,9 @@
       - Remove() : 지정된 인덱스에서 지정된 길이만큼 문자열을 삭제합니다.
       - Replace() : 지정된 문자열을 특정 문자열로 변경합니다.
 ![label1](https://github.com/user-attachments/assets/b9ae2813-76b2-4076-a712-3683d58c6441)
+
+## richTextBox  
+- 기본적인 사용 방법은 TextBox와 동일하지만 특정 문자에 대한 편집이 쉽고 표현이 풍부함
+- txt파일은 PlainText 타입으로 적어주기
+![button1](https://github.com/user-attachments/assets/00134355-34d4-43c1-a4a5-53add49827d6)
+
