@@ -61,3 +61,8 @@
 - txt파일은 PlainText 타입으로 적어주기
 ![button1](https://github.com/user-attachments/assets/00134355-34d4-43c1-a4a5-53add49827d6)
 
+## Tooltip  
+- SetToolTip(컨트롤, 메시지)이라는 메소드를 이용하면, 특정 컨트롤에 지정한 메시지를 보여줄 수 있음
+- Tooltip컨트롤은 특정 컨트롤에 마우스를 올려 놓으면 간단한 도움말을 보여줄 때 쓰여지는 컨트롤
+![Untitled design](https://github.com/user-attachments/assets/aede2162-07c1-4d3f-a1df-ef57064d46ec)
+
