@@ -66,3 +66,8 @@
 - Tooltip컨트롤은 특정 컨트롤에 마우스를 올려 놓으면 간단한 도움말을 보여줄 때 쓰여지는 컨트롤
 ![Untitled design](https://github.com/user-attachments/assets/aede2162-07c1-4d3f-a1df-ef57064d46ec)
 
+## TreeView Control    
+- 계층적인 자료 구조를 나타내 주는 컨트롤
+- 각 TreeView 아이템은 노드(Node)로 불리운다.
+- Nodes 속성에 자식 노드들을 추가해서 계층적인 구조를 갖춘다.
+![treeView1](https://github.com/user-attachments/assets/10accab3-91b1-4de7-9af2-d7f910d7b837)
