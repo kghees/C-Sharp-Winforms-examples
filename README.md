@@ -73,7 +73,8 @@
 ![treeView1](https://github.com/user-attachments/assets/10accab3-91b1-4de7-9af2-d7f910d7b837)
 
 ## WebBroswer Control  
-![Add a subheading](https://github.com/user-attachments/assets/03813ef4-23f6-4995-a32d-9585b420dfa3)
-![Add a subheading (1)](https://github.com/user-attachments/assets/6c3ef468-099d-4fcc-a102-8efe65e8a602)
+![image](https://github.com/user-attachments/assets/2e090d7c-146c-4840-ac5d-99aa481c2bcb)
+![image](https://github.com/user-attachments/assets/d055cdeb-b339-42f2-a129-4b3b9eb69192)
+
 
 
