@@ -74,7 +74,21 @@
 
 ## WebBroswer Control  
 ![image](https://github.com/user-attachments/assets/2e090d7c-146c-4840-ac5d-99aa481c2bcb)
-![image](https://github.com/user-attachments/assets/d055cdeb-b339-42f2-a129-4b3b9eb69192)
+![image](https://github.com/user-attachments/assets/d055cdeb-b339-42f2-a129-4b3b9eb69192)  
 
+## BackgroundWorker Class  
+- BackgroundWorker Class는 별도의 Thread에게 어떤 일을 시키기 위해 사용하는 Class이다.(비동기작업 헬퍼(Helper))
+- UI Thread와 별도로 어떤 작업을 수행하는데 사용된다.
+#### BackgroundWorker 피보나치 수열 합 구하기  
+- 1부터 numbericUpDown에 입력한 숫자까지 피보나치 수열의 합을 구해주는 것
+- 피보나치 수열이란?
+  - F0 = 0, F1 = 1, Fn+2 = Fn + 1 + Fn
+  - 첫째 및 둘째 항이 1이며 그 뒤의 모든 항은 바로 앞 두 항의 합인 수  
+![Add a subheading](https://github.com/user-attachments/assets/c8890320-e213-4eb5-98dc-284bd818f5f3)
+![image (1)](https://github.com/user-attachments/assets/64ef0675-b561-4e52-99f3-b7bfea3f6696)
+![image (2)](https://github.com/user-attachments/assets/cbf65113-dcb0-408c-b33b-74960ff98210)
+![image (3)](https://github.com/user-attachments/assets/62402e5b-ec50-42c9-9976-532a9b34f55f)
+  
+  **${\textsf{\color{red}출처}}$** - MSDN
 
 
