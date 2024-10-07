@@ -91,4 +91,23 @@
   
   **${\textsf{\color{red}출처}}$** - MSDN
 
+## 동기/비동기 프로그래밍  
+- 동기식
+  - 작업이 수행되면 UI Thread가 정지 됨
+  - 1초동안 UI Thread가 정지되기 때문에 창을 이동하거나 다른 작업을 수행할 수 없음
+- 비동기식
+  - 작업이 수행되어도 UI Thread가 정지되지 않음
+- 동기 메서드
+  - 차례로 2입력 후 3입력을 수행하니깐 "123" 출력
+  - 작업을 수행하는 동안 프로그램을 이동하거나 다른 작업을 수행할 수 없음
+- 비동기 메서드
+  - 2입력 3입력을 동시에 수행하기 때문에 "132" 출력
+  - 작업 수행동안 프로그램의 이동이나 다른 작업을 수행할 수 있음
+![Add a subheading](https://github.com/user-attachments/assets/a203ac1c-0f78-4a6f-b55e-97e0836f0d76)
+![image (1)](https://github.com/user-attachments/assets/c673aeda-399a-42ec-a887-b72fce1552e8)
+![image (2)](https://github.com/user-attachments/assets/8a943a2f-2112-4bee-9127-e302de6ec83b)
+![image (3)](https://github.com/user-attachments/assets/aae0e75a-022d-43e4-920a-3c4be601e0dc)
+ **${\textsf{\color{red}출처}}$** - [MSDN](https://luvris2.tistory.com/559)
+
+
 
