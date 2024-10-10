@@ -109,5 +109,10 @@
 ![image (3)](https://github.com/user-attachments/assets/aae0e75a-022d-43e4-920a-3c4be601e0dc)
  **${\textsf{\color{red}출처}}$** - [MSDN](https://luvris2.tistory.com/559)
 
+## Window MultiThreading  
+- UI 컨트롤들을 갱신하기 위해서는 항상 해당 UI 컨트롤을 생성한 UI Thread에서 갱신하여야함
+- UI Thread 이외의 Thread에서 Winform 내부의 컨트롤에 접근하여 수정할 수 없음
+#### 다음은 Work Thread에서 랜덤 정수를 Winform control에 입력하는 예시이다.
+![Add a subheading](https://github.com/user-attachments/assets/28441845-bc45-435b-8142-ac1f607ef6e0)
 
 
