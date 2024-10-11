@@ -129,3 +129,4 @@
 #### Form을 끄면 사용자가 설정한 아이콘으로 백그라운드창에서 실행되고 있다.  
 ![화면 캡처 2024-10-11 083040](https://github.com/user-attachments/assets/2a8fddd2-c906-4a17-8b22-fdf5d30d78a1)
 
+ **${\textsf{\color{red}출처}}$**-https://luvris2.tistory.com/863
