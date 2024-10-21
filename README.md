@@ -129,4 +129,11 @@
 #### Form을 끄면 사용자가 설정한 아이콘으로 백그라운드창에서 실행되고 있다.  
 ![화면 캡처 2024-10-11 083040](https://github.com/user-attachments/assets/2a8fddd2-c906-4a17-8b22-fdf5d30d78a1)
 
- **${\textsf{\color{red}출처}}$**-https://luvris2.tistory.com/863
+ **${\textsf{\color{red}출처}}$**-https://luvris2.tistory.com/863  
+
+## Chart Control  
+- **Series :** 차트에서 데이터에 해당하는 X,Y 값들을 갖는 것이 Series
+- **ChartArea :** 하나의 파트는 하나 이상의 CharaArea(차트영역)을 가질 수 있다. 일반적으로 한 Chart는 하나의 차트영역을 갖지만, 하나의 차트 컨트롤이 복수의 차트틀(ChartArea들)을 가질 수 있다.
+- **Legends :** 범례에 해당하는 것으로 0개 이상의 범례를 가질 수 있고, 0개이면 범례가 표시X
+- **Titles :** 차트 컨트롤 상단에 표시되는 제목으로 복수일 경우 위에서부터 한 라인씩 제목을 표시한다.
+![image](https://github.com/user-attachments/assets/691c5a52-eee1-416e-b03e-07f8d4c9242b)
