@@ -10,6 +10,18 @@
 - 속성 Mask에 입력 형식을 지정하는데, ex) 날짜 입력 0000.00.00
 ![Untitled design (2)](https://github.com/user-attachments/assets/a3b1ef92-d631-4334-b8ee-f1b5ef87b42c)
 
+## Timer  
+1. System.Windows.Forms.Timer
+   - 사용자가 정의한 간격마다 이벤트를 발생시키는 타이머를 구현합니다. 이 타이머는 Windows Forms 응용 프로그램에서 사용할 수 있도록 최적화되었으며 창에서 사용해야 합니다. 
+2. System.Threading.Timer
+   - 지정된 간격으로 메서드를 실행하는 메커니즘을 제공합니다. 
+3. System.Timers.Timer
+   - 응용 프로그램에 되풀이 이벤트를 생성합니다.
+     
+![label2](https://github.com/user-attachments/assets/6f2f9b05-5a59-4f1f-975d-7f8acc0d2b81)
+![image](https://github.com/user-attachments/assets/02b5ecdb-35fd-42b0-a692-5b08e09bd098)
+
+
 ## MonthCalendar, DatetimePicker  
 - 하루이상의 날짜가 필요할 땐 MonthCalendar를 하루만 필요할 땐 DateTimePicker를 쓰면된다.
 ![label1](https://github.com/user-attachments/assets/5ef7c5f8-99e5-4c23-9022-e23889703c96)
